@@ -26,7 +26,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=NamNaam&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNamNaam&count_bg=%2395FF61&title_bg=%2340BC12&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
  <br/>
  <br/>
@@ -50,14 +50,16 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+<!--#### :pencil2: Study log
  
   <br/>
-  
+[![NamNaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamNaam)](https://github.com/anuraghazra/github-readme-stats)
+[![NamNaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamNaam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=NamNaam&color=dark)](https://velog.io/@erer03)
   
 [![Solved.ac
 NamNaam](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+-->
 </div>
