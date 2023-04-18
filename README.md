@@ -57,4 +57,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamNaam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=NamNaam&color=dark)](https://velog.io/@erer03)
+  
+[![Solved.ac
+NamNaam](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 </div>
