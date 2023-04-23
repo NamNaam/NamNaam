@@ -1,7 +1,7 @@
 
 <!--
 <div align="center"> 
-![header](https://capsule-render.vercel.app/api?type=waving&text=NamNaam)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Nam Hyeong)
 <br/>
 ####  :clipboard: Once I've Used 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
